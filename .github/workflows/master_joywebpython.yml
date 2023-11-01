@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'joywebpython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7356C5BD7F7542FAA046B6BFFC2E5DD3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E4F386363B34D348924DE4E06CCB399 }}
